@@ -1,1 +1,1 @@
-# J Cole Exploritary Analysis
+# J Cole Exploratory Analysis
