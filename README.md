@@ -1,2 +1,1 @@
-# portfolio
-Website 
+# J Cole Exploritary Analysis
